@@ -25,3 +25,10 @@ composer.phar
 phpunit.phar
 # local phpunit config
 /phpunit.xml
+
+#prestashop cache
+/cache
+
+
+#prestashop log
+/log
