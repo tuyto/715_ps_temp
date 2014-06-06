@@ -12,7 +12,7 @@ define('_MEDIA_SERVER_2_', '');
 define('_MEDIA_SERVER_3_', '');
 define('_COOKIE_KEY_', 'sWrtp0JU0AJjgR5bxAkFmFcqTJwknCKaMh475ekpT4DotwXhftOsNZCP');
 define('_COOKIE_IV_', 'zzjCdWKC');
-define('_PS_CREATION_DATE_', '2014-05-30');
+define('_PS_CREATION_DATE_', '2014-06-05');
 define('_PS_VERSION_', '1.6.0.6');
 define('_RIJNDAEL_KEY_', 'e7aEf5r4IvTic0Vmd3KfZVVkgXB27ONN');
 define('_RIJNDAEL_IV_', '07UF+qWdoiDf2ns/CRXXvg==');
